@@ -1,0 +1,4 @@
+ydb
+six
+pyTelegramBotAPI
+requests
